@@ -1,3 +1,26 @@
+## async_web_server_cpp (lyrical) - 2.0.2-2
+
+The packages in the `async_web_server_cpp` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release --rosdistro lyrical --override-release-repository-push-url git@github.com:tgenovese/async_web_server_cpp-release.git async_web_server_cpp` on `Wed, 27 May 2026 13:09:14 -0000`
+
+The `async_web_server_cpp` package was released.
+
+Version of package(s) in repository `async_web_server_cpp`:
+
+- upstream repository: https://github.com/fkie/async_web_server_cpp.git
+- release repository: https://github.com/tgenovese/async_web_server_cpp-release.git
+- rosdistro version: `2.0.2-1`
+- old version: `2.0.2-1`
+- new version: `2.0.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## async_web_server_cpp (lyrical) - 2.0.2-1
 
 The packages in the `async_web_server_cpp` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release -r lyrical async_web_server_cpp` on `Wed, 06 May 2026 20:49:30 -0000`
